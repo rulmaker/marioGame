@@ -18,4 +18,4 @@ Canvas Boilerplate is the go-to solution for quickly creating modern canvas piec
 
         npm start
 
-Your canvas piece should open up automatically at http://localhost:3002.
+Your canvas piece should open up automatically at http://localhost:3000.
